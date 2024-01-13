@@ -1,5 +1,4 @@
-# Install-Avail-Full-Node
-# This is a guide for installing Avail Node on Ubuntu 22.04.
+# Avail Goldberg Full-Node
 
   *** 
 X1.** Install Rust**

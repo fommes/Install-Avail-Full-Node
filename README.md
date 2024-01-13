@@ -51,11 +51,9 @@ WantedBy=multi-user.target
 ```
 **Save it: CTRL+X** .
 
-P/s: My username is root what I used to login my Vps.
+P/s: My username is root what I used to login my VPS.
 
  data-avail file in this directory. 
-
-
 
 
 **To enable this to autostart on bootup run:**
@@ -73,6 +71,7 @@ You can check that it's working with:
 You can tail the logs with journalctllike so:
 
 ```journalctl -f -u availd```
+
 
 Check your node on https://telemetry.avail.tools
 ![image](https://github.com/DinhCongTac221/Install-Avail-Full-Node/assets/27664184/c70aaf66-ccbc-485e-ae9e-c09674425772)
